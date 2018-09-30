@@ -6,6 +6,12 @@ export const environment = {
   production: false
 };
 
+export const weatherBit = {
+  config:{
+    apiKey:'3d8322ae50f04b9ca6263b321c14d079'
+  }
+};
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
