@@ -8,7 +8,7 @@ export const environment = {
 
 export const weatherBit = {
   config:{
-    apiKey:'3d8322ae50f04b9ca6263b321c14d079'
+    apiKey:''
   }
 };
 
